@@ -1,0 +1,15 @@
+/Users/apple/Documents/DotNet Repos/Algorithms/bin/Debug/net6.0/Algorithms
+/Users/apple/Documents/DotNet Repos/Algorithms/bin/Debug/net6.0/Algorithms.deps.json
+/Users/apple/Documents/DotNet Repos/Algorithms/bin/Debug/net6.0/Algorithms.runtimeconfig.json
+/Users/apple/Documents/DotNet Repos/Algorithms/bin/Debug/net6.0/Algorithms.dll
+/Users/apple/Documents/DotNet Repos/Algorithms/bin/Debug/net6.0/Algorithms.pdb
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/Algorithms.csproj.AssemblyReference.cache
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/Algorithms.AssemblyInfoInputs.cache
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/Algorithms.AssemblyInfo.cs
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/Algorithms.dll
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/refint/Algorithms.dll
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/Algorithms.pdb
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/Algorithms.genruntimeconfig.cache
+/Users/apple/Documents/DotNet Repos/Algorithms/obj/Debug/net6.0/ref/Algorithms.dll
