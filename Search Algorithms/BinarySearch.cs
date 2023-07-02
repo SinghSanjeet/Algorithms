@@ -1,7 +1,11 @@
 using System.IO;
 
+
 public class Search{
 
+    ///Binary search is a searching algorithms that takes log(n) time to search
+    /// an element in a sorted array.
+    /// returns the index of the searched element.
     public int? BinarySearch(int[] array, int element){
         int high = array.Length - 1;
         int low = 0;
