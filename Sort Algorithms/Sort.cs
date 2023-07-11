@@ -1,9 +1,9 @@
 
 public class Sort{
 
-    ///BSelectionSort is a sorting algorithms that takes O(n^2) time to sort an array.
-    /// returns the sorted array from smaalest to the largest number.
-    public List<int> SelectionSort(int[] array){
+    ///SelectionSort is a sorting algorithms that takes O(n^2) time to sort an array.
+    /// returns the sorted array from smallest to the largest number.
+    public int[] SelectionSort(int[] array){
         var response = new List<int>();
         var list = new List<int>(array);
         while(list.Count>0){
@@ -11,7 +11,7 @@ public class Sort{
            response.Add(list[s]);
            list.RemoveAt(s);
         }
-        return response;
+        return response.ToArray();
     }
 
     private int GetSmallestNumberIndex(List<int> list){
